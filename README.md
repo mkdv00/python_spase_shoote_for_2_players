@@ -1,0 +1,1 @@
+# python_spase_shoote_for_2_players
